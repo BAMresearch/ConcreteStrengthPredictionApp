@@ -13,9 +13,14 @@ When not hosted on Aiidalab Plattform, this App needs to install some requiremen
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.txt file.
 Navigate to the Directory where you downloaded this Repository and execute this command in your Terminal.
 
+### Python 3
+```bash
+pip3 install -r requirements.txt
+```
+### Python 2
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
