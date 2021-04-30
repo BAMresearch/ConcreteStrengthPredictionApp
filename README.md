@@ -2,6 +2,11 @@
 
 ## Description
 
+An Application for Concrete Strength Prediction using:
++ Linear Regression
++ Lasso 
++ Ridge
+
 This App is based on Pranay Modukuru's [Notebook](https://github.com/pranaymodukuru/Concrete-compressive-strength)
 and got developed within the context of the Mat-O-Lab project.
 
@@ -21,6 +26,11 @@ pip3 install -r requirements.txt
 
 ```bash
 pip install -r requirements.txt
+```
+After installing the requirements enable the ui elements
+
+```bash
+jupyter nbextension enable --py widgetsnbextension
 ```
 
 ## Usage
