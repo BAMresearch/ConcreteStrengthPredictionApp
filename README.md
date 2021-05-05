@@ -41,4 +41,13 @@ Navigate to the Directory where you downloaded this Repository and execute this 
 voila ConcreteStrengthPredictionApp.ipynb
 ```
 
-A Window in your default browser should open now. The rest is pretty self explaining.
+A Window in your default browser should open now. The rest is shown in the following Demo Video.
+
+## Demo
+
+
+
+https://user-images.githubusercontent.com/48767857/117134914-899ee380-ada6-11eb-819c-8b424c883d7c.mp4
+
+
+
